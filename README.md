@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:felipe.szfd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="tel:+5531995639956"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
@@ -16,30 +15,17 @@
 
 ```typescript
 const felipe = {
-    formacao: "Engenheiro de Computação - UNIFEI (2020-2026)",
-    cargo_atual: "Desenvolvedor Frontend @ Prodemge",
+    formacao: "Engenheiro de Computação - UNIFEI (2025)",
     localizacao: "Itajubá, Minas Gerais 🇧🇷",
     interesses: ["Desenvolvimento Web", "Inteligência Artificial", "Sistemas Embarcados"],
     idiomas: {
         portugues: "Nativo",
-        ingles: "Avançado - Experiência internacional (EUA & Holanda)"
+        ingles: "Avançado"
     },
-    aprendendo_atualmente: ["Angular", "TypeScript", "Clean Architecture"],
+    aprendendo_atualmente: ["Angular", "React", "Clean Architecture"],
     hobbies: ["Tecnologia", "Coding", "Aprendizado Contínuo"]
 };
 ```
-
----
-
-### 💼 Experiência Profissional
-
-**🏢 Prodemge - Cia de Tecnologia da Informação do Estado de MG**  
-*Estagiário em Desenvolvimento Frontend* | Nov 2024 - Nov 2025
-
-- 🔹 Desenvolvimento de aplicações web com **Angular** e **TypeScript**
-- 🔹 Implementação de componentes reutilizáveis com **PrimeNG**
-- 🔹 Integração com APIs RESTful
-- 🔹 Colaboração em projetos institucionais como **Cidadão MG**
 
 ---
 
@@ -108,70 +94,22 @@ const felipe = {
 
 **🎯 Engenharia de Computação**  
 Universidade Federal de Itajubá (UNIFEI) - Campus Itajubá-MG  
-*2020 - Janeiro/2026*
-
----
-
-### 📜 Certificações & Cursos
-
-<details>
-<summary>📚 Ver Cursos Completos</summary>
-
-- ✅ **Full Stack JavaScript** - Onebitcode (200h + prática)
-- ✅ **Power BI Avançado** - Expert Cursos (30h)
-- ✅ **Aplicações Web com Node.js** - Onebitcode (30h)
-- ✅ **SQL no Node.js e Prisma ORM** - Onebitcode (30h)
-- ✅ **Fundamentos do React** - Onebitcode (22h)
-- ✅ **Banco de Dados SQL** - Onebitcode (22h)
-- ✅ **Fundamentos do Next.js** - Onebitcode (14h)
-- ✅ **Bootstrap e Sass** - Onebitcode (10h)
-- ✅ **Educação Financeira** - ANBIMA (40h)
-- ✅ **Montagem e Manutenção de Sistemas** - Naja Cursos (24h)
-
-</details>
-
----
-
-### 🌍 Experiência Internacional
-
-**🇳🇱 Arnhem International Primary School** - Arnhem, Países Baixos (2008-2009)  
-**🇺🇸 Edison Middle School** - Champaign, Illinois, EUA (2014-2015)
-
-*Habilidades desenvolvidas:* Proficiência em inglês, comunicação intercultural, adaptabilidade, resolução de problemas em ambientes diversos.
+*2020 - 2025*
 
 ---
 
 ### 🎯 Objetivos
 
-Atuar como **Desenvolvedor Full Stack**, aplicando conhecimentos em **Angular**, **React**, **Node.js** e outras tecnologias modernas. Busco constantemente desafios que me permitam crescer profissionalmente, contribuir para projetos inovadores e desenvolver soluções que façam diferença.
-
----
-
-### 💡 Soft Skills
-
-```javascript
-const softSkills = [
-    "Trabalho em Equipe 🤝",
-    "Responsabilidade 📋",
-    "Disciplina 🎯",
-    "Prontidão para Aprender 📚",
-    "Comprometimento 💪",
-    "Integridade ✨",
-    "Comunicação Intercultural 🌍"
-];
-```
+Atuar como **Desenvolvedor Full Stack**, aplicando conhecimentos em **Angular**, **React**, **Node.js** e outras tecnologias modernas. Busco oportunidades para colaborar em projetos desafiadores e desenvolver soluções inovadoras.
 
 ---
 
 <div align="center">
   
-### 📫 Entre em Contato!
-
-**"Sempre aberto a novas oportunidades e colaborações!"**
+### 📫 Vamos nos conectar?
 
 [![Email](https://img.shields.io/badge/Email-felipe.szfd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.szfd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Souza_Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+55_(31)_99563--9956-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531995639956)
 
 ---
 
