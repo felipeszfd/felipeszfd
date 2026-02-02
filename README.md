@@ -87,6 +87,4 @@
 [![Email](https://img.shields.io/badge/Email-felipe.szfd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.szfd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Souza_Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-souza-fernandes-3723192ab)
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-
 </div>
