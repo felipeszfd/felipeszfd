@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:felipe.szfd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/felipe-souza-fernandes-3723192ab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -98,21 +98,13 @@ Universidade Federal de Itajubá (UNIFEI) - Campus Itajubá-MG
 
 ---
 
-### 🎯 Objetivos
-
-Atuar como **Desenvolvedor Full Stack**, aplicando conhecimentos em **Angular**, **React**, **Node.js** e outras tecnologias modernas. Busco oportunidades para colaborar em projetos desafiadores e desenvolver soluções inovadoras.
-
----
-
 <div align="center">
   
 ### 📫 Vamos nos conectar?
 
 [![Email](https://img.shields.io/badge/Email-felipe.szfd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.szfd@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Souza_Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Souza_Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-souza-fernandes-3723192ab)
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
