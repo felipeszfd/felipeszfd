@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Felipe+Souza+Fernandes+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Engenheiro+de+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Felipe+Souza+Fernandes+%F0%9F%91%8B;Full+Stack+Developer;Computer+Engineering+Graduate" alt="Typing SVG" />
 </div>
 
-<h3 align="center">💻 Desenvolvedor Full Stack | Angular • React • Node.js • TypeScript</h3>
+<h3 align="center">💻 Full Stack Developer | Angular • React • Node.js • TypeScript</h3>
 
 <p align="center">
   <a href="mailto:felipe.szfd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -11,27 +11,19 @@
 
 ---
 
-### 🚀 Sobre Mim
+### 👨‍💻 About Me
 
-```typescript
-const felipe = {
-    formacao: "Engenheiro de Computação - UNIFEI (2025)",
-    localizacao: "Itajubá, Minas Gerais 🇧🇷",
-    interesses: ["Desenvolvimento Web", "Inteligência Artificial", "Sistemas Embarcados"],
-    idiomas: {
-        portugues: "Nativo",
-        ingles: "Avançado"
-    },
-    aprendendo_atualmente: ["Angular", "React", "Clean Architecture"],
-    hobbies: ["Tecnologia", "Coding", "Aprendizado Contínuo"]
-};
-```
+🎓 Computer Engineering graduate from **UNIFEI** (2020-2025)  
+📍 Based in Itajubá, Minas Gerais, Brazil  
+💡 Passionate about **Web Development** and **AI**  
+🌍 Fluent in Portuguese (native) and English (advanced)  
+🚀 Currently learning **Angular**, **React**, and **Clean Architecture**
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Linguagens
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -42,7 +34,7 @@ const felipe = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-#### 🎨 Frontend
+#### Frontend
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -52,27 +44,25 @@ const felipe = {
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
-#### ⚙️ Backend
+#### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
-#### 🗄️ Banco de Dados
+#### Database
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-#### 🔧 Ferramentas & Outros
+#### Tools & Others
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 </p>
 
 ---
@@ -90,21 +80,13 @@ const felipe = {
 
 ---
 
-### 🎓 Formação Acadêmica
-
-**🎯 Engenharia de Computação**  
-Universidade Federal de Itajubá (UNIFEI) - Campus Itajubá-MG  
-*2020 - 2025*
-
----
-
 <div align="center">
   
-### 📫 Vamos nos conectar?
+### 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-felipe.szfd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.szfd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Souza_Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-souza-fernandes-3723192ab)
 
----
+<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
