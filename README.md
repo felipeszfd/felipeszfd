@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Felipe+Souza+Fernandes+%F0%9F%91%8B;Full+Stack+Developer;Computer+Engineering+Graduate" alt="Typing SVG" />
 </div>
 
-<h3 align="center">💻 Full Stack Developer | Angular • React • Node.js • Spring Boot • TypeScript</h3>
+<h3 align="center">💻 Full Stack Developer | React • Angular • Spring Boot • Node.js • TypeScript</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 📍 Based in Itajubá, Minas Gerais, Brazil  
 💡 Passionate about **Web Development** and **AI**  
 🌍 Fluent in Portuguese (native) and English (advanced)  
-🚀 Currently learning **Angular**, **React**, and **Clean Architecture**
+🚀 Currently learning **Spring Boot**, **React**, and **Clean Architecture**
 
 ---
 
@@ -31,8 +31,8 @@
 
 #### Frontend
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/PrimeNG-007ad9?style=for-the-badge&logo=prime&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -41,6 +41,7 @@
 
 #### Backend
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
